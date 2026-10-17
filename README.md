@@ -1,0 +1,4 @@
+Built an end-to-end Sales and Inventory Analysis System using MySQL, Excel, and Power BI to analyze revenue, sales trends, product performance, store performance, and inventory levels. Used SQL for data analysis and business reporting, including joins, subqueries, CTEs, window functions, views, stored procedures, and aggregate functions. 
+
+Performed data cleaning and transformation in Excel using Power Query, and created Pivot Tables, Power Pivot reports, formulas, slicers, and an interactive dashboard to analyze sales and inventory performance. 
+Developed an interactive Power BI dashboard using Power Query, data modeling, relationships, DAX measures, time intelligence, KPI cards, charts, slicers, drill-down, and interactive filters to present key business insights and performance trends. 
